@@ -84,11 +84,12 @@
 ### Metricas de Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facundoqui2004&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="Estadisticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundoqui2004&layout=compact&theme=dark&hide_border=true&langs_count=6&card_width=340" alt="Lenguajes mas usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=facundoqui2004&theme=github_dark" alt="Estadisticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=facundoqui2004&theme=github_dark" alt="Lenguajes mas usados" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=facundoqui2004&theme=github_dark&utcOffset=-3" alt="Horario de actividad" />
   <img src="https://streak-stats.demolab.com/?user=facundoqui2004&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </div>
 
