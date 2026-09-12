@@ -84,12 +84,12 @@
 ### Metricas de Actividad
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=facundoqui2004&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadisticas de GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundoqui2004&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes mas usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=facundoqui2004&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="Estadisticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundoqui2004&layout=compact&theme=dark&hide_border=true&langs_count=6&card_width=340" alt="Lenguajes mas usados" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=facundoqui2004&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com/?user=facundoqui2004&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </div>
 
 ---
@@ -97,5 +97,5 @@
 ### Grafico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facundoqui2004&theme=react-dark&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Grafico de actividad" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facundoqui2004&theme=github-compact&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Grafico de actividad" width="100%" />
 </div>
