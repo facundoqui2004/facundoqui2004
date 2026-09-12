@@ -98,5 +98,5 @@
 ### Grafico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facundoqui2004&theme=github-compact&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Grafico de actividad" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=facundoqui2004&theme=github_dark" alt="Grafico de actividad" width="100%" />
 </div>
