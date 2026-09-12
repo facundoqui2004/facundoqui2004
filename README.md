@@ -11,7 +11,7 @@
   <br /><br />
 
   <p>
-    Estudiante de 4to año de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional Rosario.
+    Estudiante de 4to año de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional, Facultad Regional de Rosario.
   </p>
 
   <p>
