@@ -6,7 +6,7 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=quinio&style=flat-square&color=2563EB&label=Visitas+al+perfil" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=facundoqui2004&style=flat-square&color=2563EB&label=Visitas+al+perfil" alt="Visitas al perfil" />
 
   <br /><br />
 
@@ -73,9 +73,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quinio/quinio/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quinio/quinio/output/github-contribution-grid-snake.svg" />
-    <img alt="Animacion de contribuciones" src="https://raw.githubusercontent.com/quinio/quinio/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/facundoqui2004/facundoqui2004/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/facundoqui2004/facundoqui2004/output/github-contribution-grid-snake.svg" />
+    <img alt="Animacion de contribuciones" src="https://raw.githubusercontent.com/facundoqui2004/facundoqui2004/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -84,12 +84,12 @@
 ### Metricas de Actividad
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=quinio&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadisticas de GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinio&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes mas usados" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=facundoqui2004&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estadisticas de GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundoqui2004&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Lenguajes mas usados" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quinio&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=facundoqui2004&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </div>
 
 ---
@@ -97,5 +97,5 @@
 ### Grafico de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quinio&theme=react-dark&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Grafico de actividad" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=facundoqui2004&theme=react-dark&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Grafico de actividad" width="100%" />
 </div>
